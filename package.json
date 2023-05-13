@@ -1,6 +1,6 @@
 {
-  "homepage": "https://gruecke2.github.io/fakeflix",
-  "name": "new-react",
+  "name": "fakeflix",
+  "homepage": "https://gruecke2.github.io/fakeflix/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
