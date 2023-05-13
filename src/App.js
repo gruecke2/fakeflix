@@ -4,7 +4,7 @@ import MovieCard from './MovieCard'
 import './App.css';
 import SearchIcon from './search.svg';
 
-const API_URL = 'http://www.omdbapi.com?apikey=24b6f27c'
+const API_URL = `https://www.omdbapi.com?apikey=${process.env.REACT_APP_OMDB_KEY}`
 
 function App() {
   const [movies, setMovies] = useState([]);
@@ -20,12 +20,8 @@ function App() {
     searchMovies('The Mask')
   }, [])
 
-
-  // 24b6f27c
-
   const handleKeyDown = (event) => {
     if (event.key === 'Enter') {
-      // 👇 Get input value
       searchMovies(searchTerm);
     }
   };
