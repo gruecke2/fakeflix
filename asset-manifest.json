@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gruecke2.github.io/fakeflix/static/css/main.a45036c7.css",
-    "main.js": "/gruecke2.github.io/fakeflix/static/js/main.017ab11f.js",
-    "static/js/787.5373ea6b.chunk.js": "/gruecke2.github.io/fakeflix/static/js/787.5373ea6b.chunk.js",
-    "index.html": "/gruecke2.github.io/fakeflix/index.html",
-    "static/media/search.svg": "/gruecke2.github.io/fakeflix/static/media/search.474ee4dd6409c7d9d232a2fda89aa296.svg",
-    "main.a45036c7.css.map": "/gruecke2.github.io/fakeflix/static/css/main.a45036c7.css.map",
-    "main.017ab11f.js.map": "/gruecke2.github.io/fakeflix/static/js/main.017ab11f.js.map",
-    "787.5373ea6b.chunk.js.map": "/gruecke2.github.io/fakeflix/static/js/787.5373ea6b.chunk.js.map"
+    "main.css": "/fakeflix/static/css/main.a45036c7.css",
+    "main.js": "/fakeflix/static/js/main.b5eccf3e.js",
+    "static/js/787.5373ea6b.chunk.js": "/fakeflix/static/js/787.5373ea6b.chunk.js",
+    "index.html": "/fakeflix/index.html",
+    "static/media/search.svg": "/fakeflix/static/media/search.474ee4dd6409c7d9d232a2fda89aa296.svg",
+    "main.a45036c7.css.map": "/fakeflix/static/css/main.a45036c7.css.map",
+    "main.b5eccf3e.js.map": "/fakeflix/static/js/main.b5eccf3e.js.map",
+    "787.5373ea6b.chunk.js.map": "/fakeflix/static/js/787.5373ea6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a45036c7.css",
-    "static/js/main.017ab11f.js"
+    "static/js/main.b5eccf3e.js"
   ]
 }
