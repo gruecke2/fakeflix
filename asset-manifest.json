@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fakeflix/static/css/main.a45036c7.css",
-    "main.js": "/fakeflix/static/js/main.7df4b641.js",
+    "main.js": "/fakeflix/static/js/main.5f2a2bad.js",
     "static/js/787.491d6d55.chunk.js": "/fakeflix/static/js/787.491d6d55.chunk.js",
     "index.html": "/fakeflix/index.html",
     "static/media/search.svg": "/fakeflix/static/media/search.474ee4dd6409c7d9d232a2fda89aa296.svg",
     "main.a45036c7.css.map": "/fakeflix/static/css/main.a45036c7.css.map",
-    "main.7df4b641.js.map": "/fakeflix/static/js/main.7df4b641.js.map",
+    "main.5f2a2bad.js.map": "/fakeflix/static/js/main.5f2a2bad.js.map",
     "787.491d6d55.chunk.js.map": "/fakeflix/static/js/787.491d6d55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a45036c7.css",
-    "static/js/main.7df4b641.js"
+    "static/js/main.5f2a2bad.js"
   ]
 }
